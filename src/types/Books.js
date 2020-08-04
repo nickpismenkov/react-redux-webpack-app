@@ -1,0 +1,3 @@
+const FETCH_BOOKS = 'BOOKS/FETCH_BOOKS';
+
+export { FETCH_BOOKS };

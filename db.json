@@ -1,0 +1,40 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "name": "Book name",
+      "author": "Book author",
+      "genre": "Book genre"
+    },
+    {
+      "id": "2",
+      "name": "Book name",
+      "author": "Book author",
+      "genre": "Book genre"
+    },
+    {
+      "id": "3",
+      "name": "Book name",
+      "author": "Book author",
+      "genre": "Book genre"
+    },
+    {
+      "id": "4",
+      "name": "Book name",
+      "author": "Book author",
+      "genre": "Book genre"
+    },
+    {
+      "id": "5",
+      "name": "Book name",
+      "author": "Book author",
+      "genre": "Book genre"
+    },
+    {
+      "id": "6",
+      "name": "Book name",
+      "author": "Book author",
+      "genre": "Book genre"
+    }
+  ]
+}

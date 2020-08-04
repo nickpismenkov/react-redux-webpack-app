@@ -1,0 +1,30 @@
+@import url('https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css');
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap');
+
+* {
+  font-family: 'Roboto', sans-serif;
+}
+
+body {
+  height: 100vh;
+}
+
+.app {
+  height: 100%;
+}
+
+.app__nav {
+  height: 10%;
+}
+
+.app__books {
+  height: 90%;
+}
+
+.app__books__main {
+  height: 100%;
+}
+
+.app__books__main__loader {
+  height: 100%;
+}
